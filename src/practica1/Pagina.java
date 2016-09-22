@@ -24,4 +24,14 @@ public class Pagina {
     public void setMes(int mes) {
         this.mes = mes;
     }
+
+    public void escriure_cita(){
+
+
+    }
+
+    public void esborrar_cita(){
+
+
+    }
 }

@@ -2,9 +2,6 @@ package practica1;
 
 import java.util.List;
 
-/**
- * Created by jmunarb on 21/09/16.
- */
 public class Agenda {
 
     private int any;
@@ -24,5 +21,15 @@ public class Agenda {
 
     public void setPagines(List<Pagina> pagines) {
         this.pagines = pagines;
+    }
+
+    public void av_pagina(){
+
+
+    }
+
+    public void pagina_enrere(){
+
+
     }
 }
